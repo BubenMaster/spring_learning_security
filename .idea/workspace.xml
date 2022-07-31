@@ -9,13 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69e518e1-99c3-4ffe-96b6-d4056c48e818" name="Changes" comment="Initial Config Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yojik/spring/security/controller/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_all_employees.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_hr.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_managers.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="69e518e1-99c3-4ffe-96b6-d4056c48e818" name="Changes" comment="Learn Authentication and Authorizing">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/yojik/spring/security/configuration/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yojik/spring/security/configuration/MyConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/yojik/spring/security/configuration/MySecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yojik/spring/security/configuration/MySecurityConfig.java" afterDir="false" />
@@ -165,7 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659221481078</updated>
       <workItem from="1659221483334" duration="3527000" />
-      <workItem from="1659256211713" duration="5792000" />
+      <workItem from="1659256211713" duration="7591000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Config Commit">
       <created>1659224980748</created>
@@ -174,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659224980748</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Learn Authentication and Authorizing">
+      <created>1659263868551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659263868551</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +194,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Config Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Config Commit" />
+    <MESSAGE value="Learn Authentication and Authorizing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learn Authentication and Authorizing" />
   </component>
 </project>
